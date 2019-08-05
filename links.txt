@@ -7,3 +7,5 @@ https://jazz.net//library/article/119#setup-project
 https://jazz.net/help-dev/clm/index.jsp?topic=%2Fcom.ibm.jazz.install.doc%2Ftopics%2Ft_client_installation_p2.html
 
 https://jazz.net/library/article/949
+
+https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.0/com.ibm.team.build.doc/topics/t_getting_started_build.html
