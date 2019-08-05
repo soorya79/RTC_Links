@@ -1,0 +1,9 @@
+https://www.softwaretestinghelp.com/ibm-rtc-tutorial-3-jazz-source-control-management/
+
+https://jazz.net/library/article/38
+
+https://jazz.net//library/article/119#setup-project
+
+https://jazz.net/help-dev/clm/index.jsp?topic=%2Fcom.ibm.jazz.install.doc%2Ftopics%2Ft_client_installation_p2.html
+
+https://jazz.net/library/article/949
