@@ -7,3 +7,7 @@ https://jazz.net//library/article/119#setup-project
 https://jazz.net/help-dev/clm/index.jsp?topic=%2Fcom.ibm.jazz.install.doc%2Ftopics%2Ft_client_installation_p2.html
 
 https://jazz.net/library/article/949
+
+https://jazz.net/help-dev/clm/index.jsp?topic=%2Fcom.ibm.team.build.doc%2Ftopics%2Ftcreatebuilddefinition.html
+
+https://jazz.net/help-dev/clm/index.jsp?topic=%2Fcom.ibm.team.build.doc%2Ftopics%2Ftcreatebuildengine.html
