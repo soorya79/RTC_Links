@@ -9,3 +9,12 @@ https://jazz.net/help-dev/clm/index.jsp?topic=%2Fcom.ibm.jazz.install.doc%2Ftopi
 https://jazz.net/library/article/949
 
 https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.0/com.ibm.team.build.doc/topics/t_getting_started_build.html
+
+
+https://jazz.net/downloads/rational-team-concert/releases/6.0.4 - Rational Team Concert download
+
+https://jazz.net/action/downloads/save- Installation manager download
+
+https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.4/com.ibm.jazz.install.doc/topics/t_client_installation.html - Installing the Rational Team Concert Eclipse client by using Installation Manager
+
+https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.4/com.ibm.jazz.install.doc/topics/t_client_startup.html- Connecting the Rational Team Concert Eclipse client to the server
